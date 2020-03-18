@@ -1,0 +1,1 @@
+SELECT firstname, EXTRACT(YEAR FROM birthdate)  FROM octocats;

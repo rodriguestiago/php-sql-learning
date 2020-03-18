@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM octocats WHERE firstname LIKE '%Nadia%';

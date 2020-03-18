@@ -1,0 +1,1 @@
+select firstname, lastname, birthdate from octocats where promo='promo1-anderlecht' ORDER  BY firstname ASC LIMIT 0,4;

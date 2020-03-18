@@ -1,0 +1,1 @@
+SELECT * FROM Météo WHERE haut>'26' AND haut<'28';

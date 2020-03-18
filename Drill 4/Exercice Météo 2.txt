@@ -1,0 +1,1 @@
+SELECT CONCAT('Demain le minima observé en ', ville,  ' sera de ', bas, 'degrés' ) FROM météo;

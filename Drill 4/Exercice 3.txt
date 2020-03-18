@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM octocats WHERE gender='M' AND promo='promo1-central';

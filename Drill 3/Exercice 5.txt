@@ -1,0 +1,1 @@
+select firstname, lastname, age from octocats where promo='promo1-central' ORDER BY age ASC;
